@@ -1,0 +1,10 @@
+obj\x86\Debug\ResolveAssemblyReference.cache
+bin\x86\Debug\ZXWindows.exe
+bin\x86\Debug\ZXWindows.pdb
+bin\x86\Debug\Core.dll
+bin\x86\Debug\Core.pdb
+obj\x86\Debug\ZXWindows.exe
+obj\x86\Debug\ZXWindows.pdb
+bin\x86\Debug\Wave Bank.xwb
+bin\x86\Debug\Sound Bank.xsb
+bin\x86\Debug\SpectrumBeep.xgs

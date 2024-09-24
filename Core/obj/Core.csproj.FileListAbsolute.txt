@@ -1,0 +1,7 @@
+C:\Users\Jan\Documents\Visual Studio 2005\Projects\ZX360\Core\bin\Debug\Core.dll
+C:\Users\Jan\Documents\Visual Studio 2005\Projects\ZX360\Core\bin\Debug\Core.pdb
+C:\Users\Jan\Documents\Visual Studio 2005\Projects\ZX360\Core\bin\Debug\Microsoft.Xna.Framework.dll
+C:\Users\Jan\Documents\Visual Studio 2005\Projects\ZX360\Core\bin\Debug\Microsoft.Xna.Framework.xml
+C:\Users\Jan\Documents\Visual Studio 2005\Projects\ZX360\Core\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jan\Documents\Visual Studio 2005\Projects\ZX360\Core\obj\Debug\Core.dll
+C:\Users\Jan\Documents\Visual Studio 2005\Projects\ZX360\Core\obj\Debug\Core.pdb

@@ -1,0 +1,12 @@
+obj\Debug\ResolveAssemblyReference.cache
+bin\Debug\Core.dll
+bin\Debug\Core.pdb
+bin\Debug\Microsoft.Xna.Framework.dll
+bin\Debug\Microsoft.Xna.Framework.xml
+obj\Debug\Core.dll
+obj\Debug\Core.pdb
+bin\x86\Debug\Core.dll
+bin\x86\Debug\Core.pdb
+obj\x86\Debug\ResolveAssemblyReference.cache
+obj\x86\Debug\Core.dll
+obj\x86\Debug\Core.pdb

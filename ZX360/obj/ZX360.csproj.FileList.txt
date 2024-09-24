@@ -1,0 +1,14 @@
+bin\Xbox 360\Debug\ZX360.exe
+bin\Xbox 360\Debug\ZX360.pdb
+obj\Xbox 360\Debug\ResolveAssemblyReference.cache
+obj\Xbox 360\Debug\ZX360.exe
+obj\Xbox 360\Debug\ZX360.pdb
+obj\x86\Debug\ResolveAssemblyReference.cache
+bin\x86\Debug\ZX360.exe
+bin\x86\Debug\ZX360.pdb
+obj\x86\Debug\ZX360.exe
+obj\x86\Debug\ZX360.pdb
+bin\x86\Debug\Core.dll
+bin\x86\Debug\Core.pdb
+bin\Xbox 360\Debug\Core.dll
+bin\Xbox 360\Debug\Core.pdb

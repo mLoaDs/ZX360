@@ -1,0 +1,16 @@
+C:\Users\Jan\Documents\Visual Studio 2005\Projects\ZX360\ZX360\bin\x86\Debug\ZX360.exe
+C:\Users\Jan\Documents\Visual Studio 2005\Projects\ZX360\ZX360\bin\x86\Debug\ZX360.pdb
+C:\Users\Jan\Documents\Visual Studio 2005\Projects\ZX360\ZX360\bin\x86\Debug\Core.dll
+C:\Users\Jan\Documents\Visual Studio 2005\Projects\ZX360\ZX360\bin\x86\Debug\Core.pdb
+C:\Users\Jan\Documents\Visual Studio 2005\Projects\ZX360\ZX360\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jan\Documents\Visual Studio 2005\Projects\ZX360\ZX360\obj\x86\Debug\ZX360.exe
+C:\Users\Jan\Documents\Visual Studio 2005\Projects\ZX360\ZX360\obj\x86\Debug\ZX360.pdb
+C:\Users\Jan\Documents\Visual Studio 2005\Projects\ZX360\ZX360\bin\x86\Debug\ZX360Thumbnail.xnb
+C:\Users\Jan\Documents\Visual Studio 2005\Projects\ZX360\ZX360\bin\Xbox 360\Debug\ZX360Thumbnail.xnb
+C:\Users\Jan\Documents\Visual Studio 2005\Projects\ZX360\ZX360\bin\Xbox 360\Debug\ZX360.exe
+C:\Users\Jan\Documents\Visual Studio 2005\Projects\ZX360\ZX360\bin\Xbox 360\Debug\ZX360.pdb
+C:\Users\Jan\Documents\Visual Studio 2005\Projects\ZX360\ZX360\bin\Xbox 360\Debug\Core.dll
+C:\Users\Jan\Documents\Visual Studio 2005\Projects\ZX360\ZX360\bin\Xbox 360\Debug\Core.pdb
+C:\Users\Jan\Documents\Visual Studio 2005\Projects\ZX360\ZX360\obj\Xbox 360\Debug\ResolveAssemblyReference.cache
+C:\Users\Jan\Documents\Visual Studio 2005\Projects\ZX360\ZX360\obj\Xbox 360\Debug\ZX360.exe
+C:\Users\Jan\Documents\Visual Studio 2005\Projects\ZX360\ZX360\obj\Xbox 360\Debug\ZX360.pdb
