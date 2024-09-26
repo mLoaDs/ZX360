@@ -6,3 +6,4 @@ Is an ZX Spectrum 48K emulator port for Xbox360
 
 The emulator was created with the XNA
 from an unknown developer
+the emulator is an alpha version
